@@ -1,9 +1,9 @@
 # Structural Explainability: Identity Regimes
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-blue.svg)](https://creativecommons.org/licenses/by/4.0/)
-[![Build PDF](https://github.com/civic-interconnect/structural-explainability-paper-200-identity-regimes/actions/workflows/build-latex.yml/badge.svg)](https://github.com/civic-interconnect/structural-explainability-paper-200-identity-regimes/actions/workflows/build-latex.yml)
-[![Check Links](https://github.com/civic-interconnect/structural-explainability-paper-200-identity-regimes/actions/workflows/links.yml/badge.svg)](https://github.com/civic-interconnect/structural-explainability-paper-200-identity-regimes/actions/workflows/links.yml)
-[![ArXiv Prep](https://github.com/civic-interconnect/structural-explainability-paper-200-identity-regimes/actions/workflows/arxiv-prep.yml/badge.svg)](https://github.com/civic-interconnect/structural-explainability-paper-200-identity-regimes/actions/workflows/arxiv-prep.yml)
+[![Build PDF](https://github.com/structural-explainability/structural-explainability-paper-200-identity-regimes/actions/workflows/build-latex.yml/badge.svg)](https://github.com/structural-explainability/structural-explainability-paper-200-identity-regimes/actions/workflows/build-latex.yml)
+[![Check Links](https://github.com/structural-explainability/structural-explainability-paper-200-identity-regimes/actions/workflows/links.yml/badge.svg)](https://github.com/structural-explainability/structural-explainability-paper-200-identity-regimes/actions/workflows/links.yml)
+[![ArXiv Prep](https://github.com/structural-explainability/structural-explainability-paper-200-identity-regimes/actions/workflows/arxiv-prep.yml/badge.svg)](https://github.com/structural-explainability/structural-explainability-paper-200-identity-regimes/actions/workflows/arxiv-prep.yml)
 
 > This paper derives necessary and sufficient structural constraints on neutral ontological substrates 
 > required to support stable reference and accountability under persistent disagreement.
@@ -47,10 +47,6 @@ Windows:
 ```pwsh
 .\tools\build\build.ps1
 ```
-
-## Related
-
-- [Civic Interconnect](https://github.com/civic-interconnect/civic-interconnect)
 
 ## Annotations
 
