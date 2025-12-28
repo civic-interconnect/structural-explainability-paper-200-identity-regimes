@@ -5,7 +5,7 @@
 [![Check Links](https://github.com/structural-explainability/structural-explainability-paper-200-identity-regimes/actions/workflows/links.yml/badge.svg)](https://github.com/structural-explainability/structural-explainability-paper-200-identity-regimes/actions/workflows/links.yml)
 [![ArXiv Prep](https://github.com/structural-explainability/structural-explainability-paper-200-identity-regimes/actions/workflows/arxiv-prep.yml/badge.svg)](https://github.com/structural-explainability/structural-explainability-paper-200-identity-regimes/actions/workflows/arxiv-prep.yml)
 
-> This paper derives necessary and sufficient structural constraints on neutral ontological substrates 
+> This paper derives necessary and sufficient structural constraints on neutral ontological substrates
 > required to support stable reference and accountability under persistent disagreement.
 
 ## Paper
@@ -50,7 +50,7 @@ Windows:
 
 ## Annotations
 
-This repository uses the [Structural Explainability Annotation Standard](./ANNOTATIONS.md) for self-documenting configuration.
+[ANNOTATIONS.md](./ANNOTATIONS.md)
 
 ## Citation
 
