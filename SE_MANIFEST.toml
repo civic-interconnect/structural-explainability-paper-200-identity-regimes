@@ -1,0 +1,38 @@
+schema = "se-manifest-1"
+
+[repo]
+name = "P200_Identity_Regimes"
+org  = "structural-explainability"
+kind = "paper"
+status = "explanatory"
+since = "2025"
+summary = "Applied Ontology paper establishing the necessity and sufficiency of the identity regime basis."
+
+[layer]
+space = "SE"
+role  = "justification-identity"
+
+[depends]
+required = []
+optional = []
+
+[provides]
+artifacts = ["README.md", "paper/*.tex", "CITATION.cff"]
+
+[scope]
+includes = [
+  "theoretical justification for identity regimes",
+  "formal argument for regime closure for v1",
+]
+excludes = [
+  "normative specification text",
+  "implementation requirements",
+]
+
+[citation]
+cff = "CITATION.cff"
+preferred = "paper"
+bib_hint = "p200-identity-2025"
+
+[traceability]
+identifier_map = "none"

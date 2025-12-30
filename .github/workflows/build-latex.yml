@@ -62,4 +62,3 @@ jobs:
           latexmk -pdf -bibtex -interaction=nonstopmode -halt-on-error \
             -auxdir=artifacts -outdir=artifacts \
             se200_identity_regimes.tex
-

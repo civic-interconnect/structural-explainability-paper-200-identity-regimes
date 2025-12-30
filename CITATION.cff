@@ -15,8 +15,8 @@ repository-code: https://github.com/structural-explainability/structural-explain
 license: CC-BY-4.0
 
 abstract: >
-  This paper derives necessary and sufficient structural constraints 
-  on neutral ontological substrates required to support 
+  This paper derives necessary and sufficient structural constraints
+  on neutral ontological substrates required to support
   stable reference and accountability under persistent disagreement.
 
 keywords:
@@ -28,4 +28,4 @@ keywords:
   - causal and normative commitment
   - structural explainability
 
-message: "If you use this software, please cite it as described in this file."
+message: "If using this software, please cite it as described in this file."

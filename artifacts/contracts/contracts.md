@@ -30,8 +30,8 @@ stability under extension as explicit design constraints, we ask what minimal
 ontological structure is forced if accountability relationships are to remain
 referable and comparable under disagreement.
 Minimality here is not mere parsimony:
-a reduction is admissible only if it does not 
-reintroduce \stabilitycritical{} distinctions 
+a reduction is admissible only if it does not
+reintroduce \stabilitycritical{} distinctions
 as hidden roles, flags, or contextual predicates.
 
 We establish a conditional lower-bound result: any ontology capable of
@@ -154,7 +154,7 @@ All claims are structural, not empirical, causal, normative, or evaluative.
 
 
 \OBS{NG}{This paper does NOT define an ontology of entities or entity kinds.}
-\OBS{NG}{This paper does NOT propose a domain model or exchange protocol.}
+\OBS{NG}{This paper does NOT propose a domain model or Evolution Protocol.}
 \OBS{NG}{This paper does NOT evaluate causes, outcomes, policies, or obligations.}
 \OBS{NG}{This paper does NOT argue that all ontologies should satisfy these constraints.}
 
