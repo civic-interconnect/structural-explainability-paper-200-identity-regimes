@@ -32,7 +32,7 @@ excludes = [
 [citation]
 cff = "CITATION.cff"
 preferred = "paper"
-bib_hint = "p200-identity-2025"
+bib_hint = "case2025identity"
 
 [traceability]
 identifier_map = "none"
